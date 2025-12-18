@@ -53,7 +53,9 @@ To get started, submit a writing sample.
 
 Knowledge
 
+Download the PDF with the paragraph articles: ![Paragraph Articles](  https://github.com/cmcntsh/CreateCustomGPTTraining/raw/refs/heads/main/files/GopenParagraphArticles_6.pdf)
 
+Download the PDF with the sentence articles: ![Paragraph Articles](  https://github.com/cmcntsh/CreateCustomGPTTraining/raw/refs/heads/main/files/GopenSentenceArticles_10.pdf)
 
 Recommended Model (I picked the latest thinking model.)
 
