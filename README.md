@@ -5,6 +5,8 @@
 ### [Watch this video on YouTube](https://youtu.be/POw8UKDdaZg)
 
 
+Link to the GPT created in the video: ![Gopen Writing Analysis GPT](https://chatgpt.com/g/g-6943fb033d648191b0165224e481e351-gopen-writing-analysis)
+
 Name
 
 ```
