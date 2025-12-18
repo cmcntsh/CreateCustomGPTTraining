@@ -1,4 +1,4 @@
-# Create a Custom GPT Training Using Configure Tab
+# Create a Custom GPT Using The Configure Tab
 
 [![Watch the video](https://img.youtube.com/vi/6qXmfiqf4bU/maxresdefault.jpg)](https://youtu.be/6qXmfiqf4bU)
 
