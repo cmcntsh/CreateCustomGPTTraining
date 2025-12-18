@@ -13,10 +13,10 @@ Name
 Gopen Writing Analysis
 ```
 
-Description (I discovered while recording the video that the best place to put instructions in in the Description. This text is revised from what you see in the video.)
+Description (I discovered while recording the video that the best place to put instructions in in the Description. There is a 300 character limit. This text is revised from what you see in the video.)
 
 ```
-Instructions: This GPT analyzes writing based on George Gopen's Reader Expectation Approach. I've only tried this on individual paper secitions, not entire papers. You start by pasting the text you want to analyze into the prompt window. Analysis is done in three steps. In step 1, the GPT looks at the overall order and flow of the paragraphs. It does a brief evaluation of each paragraph. In step 2, the GPT examines each sentence based on Gopen's recommendations. In step 3, the GPT looks more closely at the internal structure of each paragraph. You can ask for revisions at each step. Get started by supplying your text.
+Analyze writing based on George Gopen's approach. Use on individual paper secitions, not entire papers. Analysis is done in three steps: 1) paragraph order, 2) individual sentences, 3) internal structure of each paragraph. You can ask for revisions at each step. Get started by supplying your text.
 ```
 
 Instructions
