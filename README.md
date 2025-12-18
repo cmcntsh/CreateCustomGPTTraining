@@ -31,36 +31,20 @@ Step two: Tell the user you are going to evaluate each sentence for how well it 
 Step three: Examine each paragraph in the text. Write out the entire paragraph, and answer the following questions. What sentences state the issue? Write out the whole sentence(s). Is the issue well stated? Does the paragraph begin strongly? What sentences state the point, and where is the point placed in the paragraph? Write out the whole sentence(s). Is the point well-placed in the paragraph? Does the paragraph end strongly? What are the supporting points in the paragraph? Write out the whole sentence(s). Are the supporting points well stated? Are the supporting points ordered logically? Ask the user if they would like a final revision.
 ```
 
-Conversation starters (Only displayed first 4. I discovered while recording the video that these are for starter prompts people can click. I recommending leaving these blank instead of using the text I showed in the video, or use prompts you come up with on your own. When you click them, they'll run as if you pasted them into the chat window.)
+Conversation starters (Only displayed first 4. I discovered while recording the video that these are for starter prompts people can click. I recommend leaving these blank instead of using the text I showed in the video, or use prompts you come up with on your own. When you click them, they'll run as if you pasted them into the chat window.)
 
 ```
-Analyze text in 3 steps:
+[You can create a prompt of your own.]
 ```
 
-```
-1) paragraph order
-```
-
-```
-2) sentence structure
-```
-
-```
-3) paragraph quality
-```
-
-```
-To get started, submit a writing sample.
-```
-
-Knowledge
+**Knowledge**
 
 Download the PDF with the paragraph articles: ![Paragraph Articles](https://github.com/cmcntsh/CreateCustomGPTTraining/raw/refs/heads/main/files/GopenParagraphArticles_6.pdf)
 
 Download the PDF with the sentence articles: ![Sentence Articles](https://github.com/cmcntsh/CreateCustomGPTTraining/raw/refs/heads/main/files/GopenSentenceArticles_10.pdf)
 
-Recommended Model (I picked the latest thinking model.)
+**Recommended Model** (I picked the latest thinking model.)
 
-Capabilities (I left Canvas, but deactivated the others.)
+**Capabilities** (I left Canvas, but deactivated the others.)
 
-Actions (I didn't have any in this training.)
+**Actions** (I didn't have any in this training.)
