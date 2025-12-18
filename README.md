@@ -1,8 +1,8 @@
 # Create a Custom GPT Training Using Configure Tab
 
-[![Watch the video](https://img.youtube.com/vi/POw8UKDdaZg/maxresdefault.jpg)](https://youtu.be/POw8UKDdaZg)
+[![Watch the video](https://img.youtube.com/vi/6qXmfiqf4bU/maxresdefault.jpg)](https://youtu.be/6qXmfiqf4bU)
 
-### [Watch this video on YouTube](https://youtu.be/POw8UKDdaZg)
+### [Watch this video on YouTube](https://youtu.be/6qXmfiqf4bU)
 
 
 Link to the GPT created in the video: ![Gopen Writing Analysis GPT](https://chatgpt.com/g/g-6943fb033d648191b0165224e481e351-gopen-writing-analysis)
