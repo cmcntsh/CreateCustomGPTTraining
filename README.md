@@ -4,6 +4,7 @@
 
 ### [Watch this video on YouTube](https://youtu.be/6qXmfiqf4bU)
 
+I demonstrate how to use this GPT on a section of a paper you upload: https://youtu.be/TZIx4q3id7E
 
 Link to the GPT created in the video: [Gopen Writing Analysis GPT](https://chatgpt.com/g/g-6943fb033d648191b0165224e481e351-gopen-writing-analysis)
 
